@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I’m Danilo Vieira
 
-<!--
-**danilo1917/danilo1917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Digital Grid as web developer<br>
+- 🌱 I’m currently learning Pthon and Django Framework <br>
+- 🎓 I’m currently a computer's science student at Federal University of Viçosa - Brazil
 
-Here are some ideas to get you started:
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo1917&show_icons=true&theme=merko&count_private=true&show_icons=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo1917&layout=compact&theme=merko&count_private=true&show_icons=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/danilo1917/alugajha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danilo1917&repo=alugajha" />
+</a>
