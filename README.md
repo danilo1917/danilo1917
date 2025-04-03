@@ -1,7 +1,4 @@
 ### Hi there 👋, I’m Danilo Vieira
-
-- 🔭 I’m currently working on Digital Grid as web developer<br>
-- 🌱 I’m currently learning about Python and Django Framework <br>
 - 🎓 I’m currently a computer's science student at Federal University of Viçosa - Brazil
 
 <div>
